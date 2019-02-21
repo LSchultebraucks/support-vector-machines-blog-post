@@ -1,4 +1,3 @@
 # Support Vector Machines Blog Post
 
-http://lasseschultebraucks.com/support-vector-machines/
-
+https://lasseschultebraucks.com/python/machine%20learning/2017/09/22/introduction-to-support-vector-machines.html
